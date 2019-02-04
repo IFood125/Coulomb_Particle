@@ -1,0 +1,30 @@
+c:\users\lan wang\documents\visual studio 2012\Projects\Coulomb_Particle\Coulomb_Particle\bin\Debug\Coulomb_Particle.exe.config
+c:\users\lan wang\documents\visual studio 2012\Projects\Coulomb_Particle\Coulomb_Particle\bin\Debug\Coulomb_Particle.exe
+c:\users\lan wang\documents\visual studio 2012\Projects\Coulomb_Particle\Coulomb_Particle\bin\Debug\Coulomb_Particle.pdb
+c:\users\lan wang\documents\visual studio 2012\Projects\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.csprojResolveAssemblyReference.cache
+c:\users\lan wang\documents\visual studio 2012\Projects\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.Form1.resources
+c:\users\lan wang\documents\visual studio 2012\Projects\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.Properties.Resources.resources
+c:\users\lan wang\documents\visual studio 2012\Projects\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.csproj.GenerateResource.Cache
+c:\users\lan wang\documents\visual studio 2012\Projects\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.exe
+c:\users\lan wang\documents\visual studio 2012\Projects\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.pdb
+D:\Gr12\Coulomb_Particle\Coulomb_Particle\bin\Debug\Coulomb_Particle.exe.config
+D:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.exe
+D:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.pdb
+D:\Gr12\Coulomb_Particle\Coulomb_Particle\bin\Debug\Coulomb_Particle.exe
+D:\Gr12\Coulomb_Particle\Coulomb_Particle\bin\Debug\Coulomb_Particle.pdb
+D:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.csprojResolveAssemblyReference.cache
+D:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.Form1.resources
+D:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.Properties.Resources.resources
+D:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.csproj.GenerateResource.Cache
+G:\Gr12\Coulomb_Particle\Coulomb_Particle\bin\Debug\Coulomb_Particle.exe.config
+G:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.exe
+G:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.pdb
+G:\Gr12\Coulomb_Particle\Coulomb_Particle\bin\Debug\Coulomb_Particle.exe
+G:\Gr12\Coulomb_Particle\Coulomb_Particle\bin\Debug\Coulomb_Particle.pdb
+G:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.csprojResolveAssemblyReference.cache
+G:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.Form1.resources
+G:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.Properties.Resources.resources
+G:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.csproj.GenerateResource.Cache
+E:\Gr12\Coulomb_Particle\Coulomb_Particle\bin\Debug\Coulomb_Particle.exe.config
+E:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.exe
+E:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.pdb
