@@ -15,6 +15,9 @@ namespace Coulomb_Particle
 {
     public partial class Form1 : Form
     {
+        /// <summary>
+        /// Particle location and charge
+        /// </summary>
         PointF particle1Location = new PointF();
         SizeF particleSize = new SizeF();
         PointF particle2Location = new PointF();
@@ -45,7 +48,9 @@ namespace Coulomb_Particle
             e.Graphics.FillRectangle(Brushes.GhostWhite, this.Width - 500, 0, 500, this.Height);
             e.Graphics.Dispose();
         }
-
+        /// <summary>
+        /// Tracks location of mouse after it left clicks
+        /// </summary>
         private Point MouseDownLocation;
 
         private void Particle_MouseDown(object sender, MouseEventArgs e)
@@ -78,7 +83,7 @@ namespace Coulomb_Particle
                 }
             }
         }
-
+        //Prevent particle movement when left click is released
         private void Particle_MouseUp(object sender, MouseEventArgs e)
         {
             clicked1 = false;
@@ -88,7 +93,11 @@ namespace Coulomb_Particle
 
         }
 
-
+        /// <summary>
+        /// Moves particles if mouse is clicked while within the boundaries of the particle
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Particle_MouseMove(object sender, MouseEventArgs e)
         {
 
@@ -143,7 +152,10 @@ namespace Coulomb_Particle
             this.Refresh();
 
         }
-
+        /// <summary>
+        /// Prevents particles from intersecting each other
+        /// Pushes particles back out if intersecting
+        /// </summary>
         private void CheckCollisions()
         {
             if (clicked1 == true)
@@ -285,7 +297,7 @@ namespace Coulomb_Particle
                 clicked = false;
             }
         }
-
+        //Starts simulation
         private void btnStart_Click(object sender, EventArgs e)
         {
             btnStart.Text = "Restart";
@@ -296,6 +308,13 @@ namespace Coulomb_Particle
             chartEvsD.Series["ForceDistance"].Points.Clear();
             lblInfo.Hide();
         }
+
+        /// <summary>
+        /// Changes charge of each particle
+        /// accepts only numerical inputs
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
 
         private void btnCharge1_Click(object sender, EventArgs e)
         {
@@ -326,7 +345,8 @@ namespace Coulomb_Particle
             chartEvsD.Series["ForceDistance"].Points.Clear();
             lbltable.Text = "Distance    Electric Force";
         }
-
+        //Creates datapoin on graph
+        //Adds entry to table of distance, charge and electric force
         private void btnAddPoint_Click(object sender, EventArgs e)
         {
 

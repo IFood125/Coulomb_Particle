@@ -28,3 +28,12 @@ G:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.csproj.Gene
 E:\Gr12\Coulomb_Particle\Coulomb_Particle\bin\Debug\Coulomb_Particle.exe.config
 E:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.exe
 E:\Gr12\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.pdb
+C:\Users\Lan Wang\Desktop\Coulomb_Particle\Coulomb_Particle\bin\Debug\Coulomb_Particle.exe.config
+C:\Users\Lan Wang\Desktop\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.exe
+C:\Users\Lan Wang\Desktop\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.pdb
+C:\Users\Lan Wang\Desktop\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.csprojResolveAssemblyReference.cache
+C:\Users\Lan Wang\Desktop\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.Form1.resources
+C:\Users\Lan Wang\Desktop\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.Properties.Resources.resources
+C:\Users\Lan Wang\Desktop\Coulomb_Particle\Coulomb_Particle\obj\Debug\Coulomb_Particle.csproj.GenerateResource.Cache
+C:\Users\Lan Wang\Desktop\Coulomb_Particle\Coulomb_Particle\bin\Debug\Coulomb_Particle.exe
+C:\Users\Lan Wang\Desktop\Coulomb_Particle\Coulomb_Particle\bin\Debug\Coulomb_Particle.pdb

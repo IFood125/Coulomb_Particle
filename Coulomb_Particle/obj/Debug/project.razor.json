@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Lan Wang\\Desktop\\Coulomb_Particle\\Coulomb_Particle\\Coulomb_Particle.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
